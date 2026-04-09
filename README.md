@@ -1,5 +1,4 @@
 # Hi, I'm Muhammad Amir 👋
-
 🎓 BSCS Student (2nd Year) — NUML, Lahore, Pakistan
 💡 Building foundations today to solve real problems tomorrow
 
@@ -42,8 +41,10 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-amir-78464a388)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-amir-pk)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadamir191491@gmail.com)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/MuhammadAamirPK)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/codeswithamir)
 
 ---
 
