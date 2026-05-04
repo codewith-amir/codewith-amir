@@ -44,7 +44,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,git,python,github,vscode&perline=6" />
 </p>
 
 ---
